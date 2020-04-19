@@ -1,7 +1,7 @@
 # virtual-keyboard
 1. [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codejam-virtual-keyboard.md)
 2. [Screenshot](https://imgur.com/a/5WVJulb)
-3. [Demo](https://alekchaik.github.io/codejam-virtual-keyboard/)
+3. [Demo](https://aleshkinpaul.github.io/virtual-keyboard/)
 4. Дата сдачи - 20.04.2020 / Дата дедлайна - 07.04.2020
 5. Total
 
